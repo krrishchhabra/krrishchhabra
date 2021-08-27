@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krrishchhabra.
 - 👀 I’m interested in Technology.
 - 🌱 I’m currently learning Python, MySQL and iOS.
-- 💞️ I’m looking to collaborate on SkillSure.
+- 💞️ I’m looking to collaborate on WSS Private Limited.
 - 📫 How to reach me krrishchhabraofficial@gmail.com.
 
 <!---
